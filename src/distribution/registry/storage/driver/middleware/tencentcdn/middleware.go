@@ -11,7 +11,7 @@ import (
 	storagedriver "github.com/distribution/distribution/v3/registry/storage/driver"
 	storagemiddleware "github.com/distribution/distribution/v3/registry/storage/driver/middleware"
 
-	"tencentyun/auth"
+	"tencentcloud/auth"
 )
 
 // aliCDNStorageMiddleware provides a simple implementation of layerHandler that
